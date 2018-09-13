@@ -1,0 +1,12 @@
+body {
+  overflow: hidden;
+  margin: 0;
+}
+
+svg {
+  mix-blend-mode: overlay;
+}
+
+circle {
+  stroke: white;
+}
